@@ -19,6 +19,6 @@
 -tickrate 128 +cl_cmdrate 128 +cl_updaterate 128 设置128tick
 
 
-
+当前自用
 -high -novid -no-browser -nojoy +snd_use_hrtf 0 -refresh 240 -freq 240 -tickrate 128 +cl_cmdrate 128 +cl_updaterate 128 +exec auto.cfg
 
